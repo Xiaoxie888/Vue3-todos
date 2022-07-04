@@ -2,6 +2,7 @@
 node_modules
 /dist
 /src/styles/base.css
+/src/styles/index.css
 
 
 # local env files
