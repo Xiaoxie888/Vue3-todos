@@ -143,8 +143,8 @@ body {
 }
 
 .todo-list {
-  margin: 8;
-  padding: 0;
+  margin: 1;
+  padding: 1;
   list-style: none;
 }
 
